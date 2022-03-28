@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "AksaraBaliGalang";
+    src: url(../fonts/aksara/AksaraBaliGalang-Regular.ttf);
+}
+@font-face {
+    font-family: "Plantaganet-cherokke";
+    src: url(../fonts/cherokee/plantagenet-cherokee.ttf);
+}
+@font-face {
+    font-family: "Quattrocento";
+    src: url(../fonts/quattrocento/Quattrocento-Regular.ttf);
+}
+@font-face {
+    font-family: "RobotoSlab";
+    src: url(../fonts/roboto\ slab/);
+}
+@font-face {
+    font-family: "Roboto";
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
