@@ -376,7 +376,7 @@ p{
         width: 100%;
     }
     .main_slider-image{
-        width: 100%;
+        width: 60%;
         display: flex;
     justify-content: center;    }
 }
@@ -422,6 +422,9 @@ p{
     }
 }
 @media (max-width:512px) {
+    .main_slider-image{
+        width: 90%;
+    }
     .footer__link-text{
         justify-content: center;
         align-items: center;
