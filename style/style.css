@@ -411,6 +411,7 @@ p{
 
 @media (max-width:767px) {
     .header_content{
+        background: none;
         background: url(../image/bg-adaptation.jpg) no-repeat center /cover;
     }
     .header_nav-link{
