@@ -407,12 +407,11 @@ p{
     }
 }
 
-    
-
 @media (max-width:767px) {
     .header_content{
         background: none;
         background: url(../image/bg-adaptation.jpg) no-repeat center /cover;
+        background-attachment: fixed;
     }
     .header_nav-link{
         margin-left: 0;
