@@ -410,6 +410,9 @@ p{
     
 
 @media (max-width:767px) {
+    .header_content{
+        background: url(../image/bg-adaptation.jpg) no-repeat center /cover;
+    }
     .header_nav-link{
         margin-left: 0;
         margin-top: 10px;
