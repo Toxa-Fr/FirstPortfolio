@@ -62,6 +62,7 @@
 body{
     font-family: var(--mr400);
     background: var(--grey);
+    background-attachment: fixed;
 }
 .logo{
     text-decoration: none;
