@@ -178,7 +178,7 @@
     margin-bottom: 30px;
 }
 .header_text:nth-of-type(2){
-    color: var(--dark);
+    color: var(--grey_text);
     font-size: 18px;
     line-height: 22px;
     text-align: justify;
